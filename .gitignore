@@ -1,0 +1,11 @@
+## terraform stuff
+**/.terraform*/*
+*.tfstate
+*.tfstate.*
+*.tfvars
+
+# Large Files
+*.exe
+*.pdf
+*.png
+*.jpg
